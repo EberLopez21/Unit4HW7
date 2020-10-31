@@ -7,7 +7,7 @@ Use a loop to calculate the total sales for the week and display the results.
 
 
 let sales = [];
-while(sales.length < 6){
+while(sales.length < 7){
     sales.push(Number(prompt("Enter number ")));
 }
 
